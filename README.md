@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there, I'm Kanan Mehta!
 
-<!--
-**kananmmehta/kananmmehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist | Full Stack Developer
+I'm a passionate technologist who loves solving complex problems by blending data-driven insights with robust web application development. My goal is to transform raw data into intelligent, scalable, and user-friendly products.
 
-Here are some ideas to get you started:
+📈 Data Science & ML Focus
+My journey in Data Science is focused on building predictive models and extracting actionable insights. I thrive on bringing machine learning models from conceptual notebooks into production-ready environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Full Stack Development 
+I leverage my full stack knowledge to build the necessary infrastructure for my data projects and create intuitive interfaces for users to interact with my models.
+
+🚀 Tech Stack
+Python MySQL Excel HTML5 CSS3 JavaScript
+
+🌟 Connect with Me
+I'm always open to discussing new data challenges, collaboration opportunities, and sharing knowledge!
+
+LinkedIn: https://www.linkedin.com/in/kanan-mehta-161257319/
+Email: kananmuskanmehta@gmail.com
