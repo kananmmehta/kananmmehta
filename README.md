@@ -10,10 +10,13 @@ My journey in Data Science is focused on building predictive models and extracti
 I leverage my full stack knowledge to build the necessary infrastructure for my data projects and create intuitive interfaces for users to interact with my models.
 
 🚀 Tech Stack
-Python MySQL Excel HTML5 CSS3 JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white)
+Excel HTML5 CSS3 JavaScript
 
 🌟 Connect with Me
 I'm always open to discussing new data challenges, collaboration opportunities, and sharing knowledge!
 
 LinkedIn: https://www.linkedin.com/in/kanan-mehta-161257319/
+
 Email: kananmuskanmehta@gmail.com
